@@ -7,13 +7,11 @@ resources:
   - operands/operand-project.yaml
   - cp4i-argo-role.yaml
   - cp4i-argo-rb.yaml
-
   - common.yaml
 
-  - operators/all-operators.yaml
-  
-  - operands/all-operands.yaml
-  - apis-and-products.yaml
+  - operators/all-operators.yaml  
+#  - operands/all-operands.yaml
+#  - apis-and-products.yaml
 
 patches:
 - target:
