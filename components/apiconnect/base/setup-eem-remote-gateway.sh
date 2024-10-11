@@ -15,7 +15,7 @@ EEM_CA_SECRET_NAME=$EEM_MANAGER_CR_NAME-ibm-eem-manager
 # Directory to write and read files from
 WORKING_DIR=/tmp/setup-remote-gw
 
-APIC_CLIENT_CREDS=/Users/kjelllarsson/Downloads/credentials.json
+APIC_CLIENT_CREDS=/Users/tingwu/Desktop/credentials.json
 
 # Setup working directory
 rm -rf $WORKING_DIR
