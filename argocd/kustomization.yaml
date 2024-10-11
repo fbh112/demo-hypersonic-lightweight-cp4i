@@ -11,7 +11,7 @@ resources:
 
   - operators/all-operators.yaml  
   - operands/all-operands.yaml
-#  - apis-and-products.yaml
+  - apis-and-products.yaml
 
 patches:
 - target:
